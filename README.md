@@ -1,6 +1,6 @@
-# Hi, I'm Prashant Pahwa 👋
+# Hi, I'm Prashant Pahwa 
 
-Security operations and incident response practitioner (CISM). I share practical, free resources for small security teams, consultants and SMBs.
+I’ve spent 18+ years building and leading 24x7 SOCs and MDR services across financial services, telecom and technology. Here I share practical, free detection and incident response resources for small security teams, consultants and SMBs.
 
 ## What I work on
 
